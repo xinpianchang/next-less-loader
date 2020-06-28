@@ -1,0 +1,20 @@
+{
+  "name": "next-less-loader",
+  "version": "0.0.1",
+  "description": "changed version for next-less",
+  "keywords": [
+    "next",
+    "less"
+  ],
+  "license": "MIT",
+  "author": "chengyu@xinpianchang.com",
+  "main": "index.js",
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "webpack-filter-warnings-plugin": "^1.2.1"
+  }
+}
