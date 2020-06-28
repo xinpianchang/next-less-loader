@@ -32,6 +32,13 @@ const globalLessWithoutCssModuleLoader = cssLoaderConfig(config, {
   cssModules: false,
   ...
 })
+
+
+config.module.rules.push({
+  test: /\.less$/,
+  include: cssModulesExclude,
+  use: globalLessWithoutCssModuleLoader,
+})
 ```
 
 其他配置项：
