@@ -1,5 +1,5 @@
 {
-  "name": "next-less-loader",
+  "name": "@newstudios/next-less-loader",
   "version": "0.0.1",
   "description": "changed version for next-less",
   "keywords": [
@@ -8,6 +8,7 @@
   ],
   "license": "MIT",
   "author": "chengyu@xinpianchang.com",
+  "homepage": "https://github.com/xinpianchang/next-less-loader#readme",
   "main": "index.js",
   "scripts": {
   },
