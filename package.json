@@ -1,6 +1,6 @@
 {
   "name": "@newstudios/next-less-loader",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "changed version for next-less",
   "keywords": [
     "next",
@@ -10,10 +10,8 @@
   "author": "chengyu@xinpianchang.com",
   "homepage": "https://github.com/xinpianchang/next-less-loader#readme",
   "main": "index.js",
-  "scripts": {
-  },
-  "devDependencies": {
-  },
+  "scripts": {},
+  "devDependencies": {},
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "webpack-filter-warnings-plugin": "^1.2.1"
